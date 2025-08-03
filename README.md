@@ -1,8 +1,8 @@
 # CrossFi Quest
 
-A gamified educational platform built with Streamlit that teaches blockchain technology and CrossFi ecosystem.
+Educational blockchain app built with Streamlit.
 
-## Run the App
+## Run
 
 ```bash
 streamlit run enhanced.py
@@ -10,6 +10,6 @@ streamlit run enhanced.py
 
 ## Setup
 
-1. Install dependencies: `pip install -r requirements.txt`
-2. Add your Groq API key to Streamlit secrets
-3. Run the app: `streamlit run enhanced.py` 
+1. Install: `pip install -r requirements.txt`
+2. Add Groq API key to Streamlit secrets
+3. Run: `streamlit run enhanced.py` 
