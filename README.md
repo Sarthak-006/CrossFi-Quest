@@ -30,7 +30,7 @@ Educational blockchain app built with Streamlit that teaches blockchain technolo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/crossfi-quest.git
+   git clone [https://github.com/Sarthak-006/CrossFi-Quest.git]
    cd crossfi-quest
    ```
 
